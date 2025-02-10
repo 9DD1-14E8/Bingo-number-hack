@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #222;
+    color: white;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.timer {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.result-box {
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background: black;
+    width: 250px;
+}
+
+.number {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.big-small, .color {
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.red { color: red; }
+.green { color: green; }
+.blue { color: blue; }
